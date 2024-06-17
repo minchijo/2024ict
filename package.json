@@ -1,0 +1,24 @@
+{
+  "name": "1_basic",
+  "version": "1.0.0",
+  "description": "node js test",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxxminxxx/ict_-.git"
+  },
+  "author": "jo min chi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxxminxxx/ict_-/issues"
+  },
+  "homepage": "https://github.com/xxxminxxx/ict_-#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "6.10",
+    "mysql": "^2.18.1"
+  }
+}
